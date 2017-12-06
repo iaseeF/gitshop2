@@ -11,7 +11,7 @@
 }
 body {
 	background: url(../images/bg-body.jpg) repeat;
-	color: green;
+	color: red;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 14px;
 	line-height: 1;
@@ -39,14 +39,14 @@ body {
 	margin: 0 auto;
 	padding: 49px 0 0;
 	position: relative;
-	width: 960px;
+	width: 1060px;
 	z-index: 5;
 }
 #header a.logo {
 	display: block;
 	margin: 0 auto;
 	padding: 0;
-	width: 540px;
+	width: 640px;
 }
 #header a.logo img {
 	border: 0;
@@ -72,7 +72,7 @@ body {
 }
 #header ul li a {
 	background: url(../images/menu.png) no-repeat;
-	color: #a8a8a8;
+	color: red;
 	display: block;
 	font-family: 'Philosopher-Bold';
 	font-size: 16px;
@@ -181,7 +181,7 @@ body {
 #body div div .section div h4 {
 	background: #070707 url(../images/gradient2.png) repeat-x top center;
 	border: 1px solid #22272a;
-	color: #fff;
+	color: red;
 	font-size: 14px;
 	line-height: 24px;
 	margin: 0 0 1px;
@@ -189,7 +189,7 @@ body {
 }
 #body div div .section div div {
 	background: #181818;
-	border: 1px solid #22272a;
+	border: 1px solid #b300b3;
 	margin: 0;
 	padding: 20px 19px;
 }
